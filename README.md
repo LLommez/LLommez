@@ -16,12 +16,12 @@
 
 ## Featured Projects
 - [Converter](https://github.com/LLommez/converter) - This program converts .log outputs (from Gaussian) and .molden.input outputs (from Orca) into .pqr files.
-- [Quantum Spiralis](https://github.com/LLommez/Quantum_Spiralis) - Quantum Spiralis is an educational software for teaching quantum chemistry. project.
+- [Quantum Spiralis](https://github.com/LLommez/Quantum_Spiralis) - Quantum Spiralis is an educational software for teaching quantum chemistry.
 
 ## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LLommez&show_icons=true&theme=radical)
 
 ## Contact Me
-- 📧 Email: your-lucclommez@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lucca-lommez)
-- 🌐 Lattes: [Your Lattes](http://lattes.cnpq.br/7953997672552901)
+- 📧 Email: lucclommez@gmail.com
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lucca-lommez)
+- 🌐 Lattes: [Lattes](http://lattes.cnpq.br/7953997672552901)
