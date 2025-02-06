@@ -19,7 +19,7 @@
 - [Quantum Spiralis](https://github.com/LLommez/Quantum_Spiralis) - Quantum Spiralis is an educational software for teaching quantum chemistry. project.
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LLommez&show_icons=true&theme=radical)
 
 ## Contact Me
 - 📧 Email: your-lucclommez@gmail.com
